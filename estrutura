@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Una Alerta</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Una Alerta</h1>
+        <p>Informação e prevenção sobre o Rio Una</p>
+        <nav>
+            <a href="#sobre">Sobre</a>
+            <a href="#prevencao">Prevenção</a>
+            <a href="#avisos">Avisos oficiais</a>
+            <a href="#contatos">Contatos</a>
+        </nav>
+    </header>
+
+    <main>
+        <section id="sobre">
+            <h2>Bem-vindo ao Una Alerta</h2>
+            <p>Encontre orientações preventivas
+            e canais oficiais de informação.</p>
+        </section>
+
+        <section id="prevencao">
+            <h2>Prevenção</h2>
+            <p>Consulte orientações educativas
+            e siga as recomendações oficiais.</p>
+        </section>
+
+        <section id="avisos">
+            <h2>Avisos oficiais</h2>
+            <p>Consulte os canais oficiais para
+            verificar os comunicados vigentes.</p>
+        </section>
+
+        <section id="contatos">
+            <h2>Contatos úteis</h2>
+            <p>Adicione aqui somente canais
+            confirmados em fontes oficiais.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Projeto acadêmico — Una Alerta.</p>
+        <p>Não realiza monitoramento em tempo real.</p>
+    </footer>
+</body>
+</html>
