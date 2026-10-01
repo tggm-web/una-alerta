@@ -1,0 +1,14 @@
+<button id="botao-info">Ver orientação</button>
+<p id="mensagem" aria-live="polite"></p>
+
+<script src="script.js"></script>
+
+
+
+const botao = document.getElementById("botao-info");
+const mensagem = document.getElementById("mensagem");
+
+botao.addEventListener("click", function () {
+    mensagem.textContent =
+        "Consulte os canais oficiais e siga as orientações das autoridades.";
+});
